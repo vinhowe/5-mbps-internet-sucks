@@ -1,4 +1,4 @@
-# 5 Mbps Internet Sucks
+# 5 Mb/s Internet Sucks
 
 _...and I'm going to prove it._
 
