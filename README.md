@@ -1,6 +1,6 @@
-# 5 Mbps internet sucks
+# 5 Mbps Internet Sucks
 
-_And I'm going to prove it._
+_...and I'm going to prove it._
 
 I just moved into a new apartment that has Google Fiber's free 5 Mbps internet. It's awful.
 
